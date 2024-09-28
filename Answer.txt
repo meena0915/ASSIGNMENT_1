@@ -1,0 +1,14 @@
+Parental Education vs Student Performance (Bar Plot)
+The bar plot shows the relationship between parental education levels and the average math scores of students.
+It’s easier to compare how students perform in math based on their parental education level.
+Test Preparation Course vs Student Performance (Box Plot)
+The box plot shows the distribution of math scores for students who completed a test preparation course vs. those who did not.
+It  helps to visualize the spread, median, and any outliers in math scores based on test preparation.
+Lunch Type vs Student Performance (Violin Plot)
+This plot visualizes the distribution of math scores for students who receive free/reduced lunch versus those who get standard lunch.
+Gender vs Student Performance (Grouped Bar Plot)
+The grouped bar plot shows the average scores in math, reading, and writing for male and female students.
+It is easier to compare gender-based differences across multiple subjects
+Correlation Between Math, Reading, and Writing Scores (Heatmap)
+The heatmap shows the correlation between math, reading, and writing scores.
+It allows you to quickly assess how closely related the scores are across these subjects.
